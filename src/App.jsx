@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { TodoProvider } from './contexts';
-import TodoForm from './components/TodoForm'; // Corrected import path
+import TodoForm from './components/TodoForm';
 import TodoItem from './components/TodoItem';
 
 const App = () => {
