@@ -13,7 +13,7 @@
 ## Screenshots
 
 ![TaskMaster Screenshot](![image](https://github.com/user-attachments/assets/8da265e8-b7ac-44c4-a5e6-9ffb5d6c7438)
-)
+
 
 ## Getting Started
 
